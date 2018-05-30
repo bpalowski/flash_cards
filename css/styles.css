@@ -1,0 +1,35 @@
+#js-on{
+  display: none;
+}
+
+#operators-on{
+  display: none;
+}
+#variables-on{
+
+  display: none;
+}
+.clickable{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover{
+  text-decoration: underline;
+}
+
+.clickable_01{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable_01:hover{
+  text-decoration: underline;
+}
+.clickable_02{
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable_02:hover{
+  text-decoration: underline;
+}
